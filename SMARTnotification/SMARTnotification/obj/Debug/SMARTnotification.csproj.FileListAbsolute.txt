@@ -1,0 +1,36 @@
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.config
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.pdb
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.pdb
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.manifest
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.application
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe.manifest
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.application
+C:\Users\aottaviano\Desktop\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.csprojResolveAssemblyReference.cache
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.config
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.pdb
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.manifest
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.application
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.pdb
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.csprojResolveAssemblyReference.cache
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe.manifest
+Z:\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.application
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.config
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.pdb
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.manifest
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.application
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.pdb
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.csprojResolveAssemblyReference.cache
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe.manifest
+\\support1\data\student\aottaviano\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.application
+D:\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.config
+D:\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe
+D:\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.pdb
+C:\Users\andre\Programming\C#\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\bin\Debug\SMARTnotification.exe.config
+C:\Users\andre\Programming\C#\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.exe
+C:\Users\andre\Programming\C#\SMART stuff\Thin client email\SMARTnotification\SMARTnotification\obj\Debug\SMARTnotification.pdb
